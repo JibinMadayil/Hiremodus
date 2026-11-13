@@ -1,0 +1,97 @@
+[
+ {
+  "name": "ERP - Accounts Payable",
+  "web_link": "https://docs.oracle.com/cd/E18727_01/doc.121/e12797/toc.htm",
+  "training_link": "https://novamodusinc.sharepoint.com/sites/NovamodusLearningPortal/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=SfQOMZ&CID=4a96a885%2De0b2%2D454b%2Db071%2D57edbdc62b0e&FolderCTID=0x0120008E48157F59BA09448444D1A9FAB7A2DF&id=%2Fsites%2FNovamodusLearningPortal%2FShared%20Documents%2FOracle%20Mylearn%20Videos%2FERP%2FAccounts%20Payable"
+ },
+ {
+  "name": "ERP - Accounts Receivable & Collections",
+  "web_link": "https://docs.oracle.com/cd/E18727_01/doc.121/e13522/toc.htm",
+  "training_link": "https://novamodusinc.sharepoint.com/:f:/r/sites/NovamodusLearningPortal/Shared%20Documents/Oracle%20Mylearn%20Videos/ERP/Accounts%20Receivable%20%26%20Collections?csf=1&web=1&e=hjBGuS"
+ },
+ {
+  "name": "ERP - General Ledger",
+  "web_link": "https://docs.oracle.com/en/cloud/saas/financials/26c/faigl/toc.htm",
+  "training_link": "https://novamodusinc.sharepoint.com/:f:/r/sites/NovamodusLearningPortal/Shared%20Documents/Oracle%20Mylearn%20Videos/ERP/General%20Ledger?csf=1&web=1&e=dhlDAB"
+ },
+ {
+  "name": "ERP - Projects",
+  "web_link": "https://docs.oracle.com/en/cloud/saas/project-management/26c/oapfm/toc.htm",
+  "training_link": "https://novamodusinc.sharepoint.com/:f:/r/sites/NovamodusLearningPortal/Shared%20Documents/Oracle%20Mylearn%20Videos/ERP/Projects?csf=1&web=1&e=huZy32"
+ },
+ {
+  "name": "EPM - Planning",
+  "web_link": "https://docs.oracle.com/en/cloud/saas/planning-budgeting-cloud/epbug/toc.htm",
+  "training_link": "https://novamodusinc.sharepoint.com/:f:/r/sites/NovamodusLearningPortal/Shared%20Documents/Oracle%20Mylearn%20Videos/EPM/Become%20a%20Certified%20Planning%20Implementer?csf=1&web=1&e=qhFUWn"
+ },
+ {
+  "name": "HCM - Core HR",
+  "web_link": "https://docs.oracle.com/en/cloud/saas/human-resources/faigh/index.html",
+  "training_link": "https://novamodusinc.sharepoint.com/:f:/r/sites/NovamodusLearningPortal/Shared%20Documents/Oracle%20Mylearn%20Videos/HCM/Core%20HR?csf=1&web=1&e=cA2WLZ"
+ },
+ {
+  "name": "HCM - Benefits",
+  "web_link": "https://docs.oracle.com/en/cloud/saas/human-resources/faibf/toc.htm",
+  "training_link": "https://novamodusinc.sharepoint.com/:f:/r/sites/NovamodusLearningPortal/Shared%20Documents/Oracle%20Mylearn%20Videos/HCM/PABT%20Modules/Benefits?csf=1&web=1&e=CNbGtk"
+ },
+ {
+  "name": "HCM - Absence",
+  "web_link": "https://docs.oracle.com/en/cloud/saas/human-resources/faiam/toc.htm",
+  "training_link": "https://novamodusinc.sharepoint.com/:f:/r/sites/NovamodusLearningPortal/Shared%20Documents/Oracle%20Mylearn%20Videos/HCM/PABT%20Modules/Absence%20Management?csf=1&web=1&e=gFW0PX"
+ },
+ {
+  "name": "HCM - Payroll",
+  "web_link": "https://docs.oracle.com/en/cloud/saas/human-resources/faapc/toc.htm",
+  "training_link": "https://novamodusinc.sharepoint.com/:f:/r/sites/NovamodusLearningPortal/Shared%20Documents/Oracle%20Mylearn%20Videos/HCM/PABT%20Modules/Payroll?csf=1&web=1&e=rPd0tM"
+ },
+ {
+  "name": "HCM - Time and Labor",
+  "web_link": "https://docs.oracle.com/en/cloud/saas/human-resources/faitl/toc.htm",
+  "training_link": "https://novamodusinc.sharepoint.com/:f:/r/sites/NovamodusLearningPortal/Shared%20Documents/Oracle%20Mylearn%20Videos/HCM/PABT%20Modules/Time%20and%20Labor?csf=1&web=1&e=o8JVEg"
+ },
+ {
+  "name": "HCM - Talent Management",
+  "web_link": "https://docs.oracle.com/en/cloud/saas/talent-management/faitm/toc.htm",
+  "training_link": "https://novamodusinc.sharepoint.com/:f:/r/sites/NovamodusLearningPortal/Shared%20Documents/Oracle%20Mylearn%20Videos/HCM/Talent%20Management?csf=1&web=1&e=sDBDbM"
+ },
+ {
+  "name": "HCM - Recruiting",
+  "web_link": "https://docs.oracle.com/en/cloud/saas/talent-management/faimh/toc.htm",
+  "training_link": "https://novamodusinc.sharepoint.com/:f:/r/sites/NovamodusLearningPortal/Shared%20Documents/Oracle%20Mylearn%20Videos/HCM/Recruiting?csf=1&web=1&e=VjXM7g"
+ },
+ {
+  "name": "HCM - Learning",
+  "web_link": "https://docs.oracle.com/en/cloud/saas/talent-management/faiml/toc.htm",
+  "training_link": "https://novamodusinc.sharepoint.com/:f:/r/sites/NovamodusLearningPortal/Shared%20Documents/Oracle%20Mylearn%20Videos/HCM/Learning?csf=1&web=1&e=6Vyxdg"
+ },
+ {
+  "name": "SCM - Cost Mangement",
+  "web_link": "https://docs.oracle.com/en/cloud/saas/supply-chain-and-manufacturing/26c/fapma/overview-of-cost-management.html",
+  "training_link": "https://novamodusinc.sharepoint.com/:f:/r/sites/NovamodusLearningPortal/Shared%20Documents/Oracle%20Mylearn%20Videos/SCM/Cost%20Management?csf=1&web=1&e=m7NzRB"
+ },
+ {
+  "name": "SCM - Inventory Management",
+  "web_link": "https://docs.oracle.com/en/cloud/saas/supply-chain-and-manufacturing/26c/faims/toc.htm",
+  "training_link": "https://novamodusinc.sharepoint.com/:f:/r/sites/NovamodusLearningPortal/Shared%20Documents/Oracle%20Mylearn%20Videos/SCM/Inventory%20Management?csf=1&web=1&e=njFp6X"
+ },
+ {
+  "name": "SCM - Procurement",
+  "web_link": "https://docs.oracle.com/en/cloud/saas/procurement/26c/oapro/toc.htm",
+  "training_link": "https://novamodusinc.sharepoint.com/:f:/r/sites/NovamodusLearningPortal/Shared%20Documents/Oracle%20Mylearn%20Videos/SCM/Procurement?csf=1&web=1&e=NtHfAl"
+ },
+ {
+  "name": "SCM - Procurement and Accounts Payable",
+  "web_link": "https://docs.oracle.com/en/cloud/saas/procurement/26c/oapro/toc.htm\nhttps://docs.oracle.com/cd/E18727_01/doc.121/e12797/toc.htm",
+  "training_link": "https://novamodusinc.sharepoint.com/:f:/r/sites/NovamodusLearningPortal/Shared%20Documents/Oracle%20Mylearn%20Videos/SCM/Procurement?csf=1&web=1&e=NtHfAl\nhttps://novamodusinc.sharepoint.com/sites/NovamodusLearningPortal/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=SfQOMZ&CID=4a96a885%2De0b2%2D454b%2Db071%2D57edbdc62b0e&FolderCTID=0x0120008E48157F59BA09448444D1A9FAB7A2DF&id=%2Fsites%2FNovamodusLearningPortal%2FShared%20Documents%2FOracle%20Mylearn%20Videos%2FERP%2FAccounts%20Payable"
+ },
+ {
+  "name": "SCM - Inventory Management and Cost Mangement",
+  "web_link": "https://docs.oracle.com/en/cloud/saas/supply-chain-and-manufacturing/26c/fapma/overview-of-cost-management.html; \nhttps://docs.oracle.com/en/cloud/saas/supply-chain-and-manufacturing/26c/faims/toc.htm",
+  "training_link": "https://novamodusinc.sharepoint.com/:f:/r/sites/NovamodusLearningPortal/Shared%20Documents/Oracle%20Mylearn%20Videos/SCM/Cost%20Management?csf=1&web=1&e=m7NzRB\nhttps://novamodusinc.sharepoint.com/:f:/r/sites/NovamodusLearningPortal/Shared%20Documents/Oracle%20Mylearn%20Videos/SCM/Inventory%20Management?csf=1&web=1&e=njFp6X"
+ },
+ {
+  "name": "Development",
+  "web_link": "",
+  "training_link": ""
+ }
+]

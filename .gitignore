@@ -1,0 +1,16 @@
+# dependencies and build caches
+frontend/node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# data: never commit the database, uploads, recordings or imported workbooks
+*.db
+*.db-journal
+backend/uploads/
+backend/imports/
+*.xlsm
+
+# connector: personal key and log
+connector/config.json
+connector/connector.log
